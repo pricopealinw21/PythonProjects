@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="357b3fb0-1cc1-41b6-9dbc-a58c4a549175" name="Changes" comment="Proiect BOT stiri">
-      <change afterPath="$PROJECT_DIR$/BotInstagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOTstiri.py" beforeDir="false" />
-    </list>
+    <list default="true" id="357b3fb0-1cc1-41b6-9dbc-a58c4a549175" name="Changes" comment="Bot,alerta subiect intersat" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,11 +71,38 @@
       <option name="project" value="LOCAL" />
       <updated>1773781825488</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Proiect Instagram bot, dand flw la primi n urmaritori, am preluat un cont de pe curs pentru a da flw, si am creat un cont propiu de instagram pentru test.">
+      <option name="closed" value="true" />
+      <created>1773782298458</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773782298458</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Trimitere mail automat">
+      <option name="closed" value="true" />
+      <created>1773782418496</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773782418496</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Bot,alerta subiect intersat">
+      <option name="closed" value="true" />
+      <created>1773782544567</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773782544567</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proiect BOT stiri" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proiect BOT stiri" />
+    <MESSAGE value="Proiect Instagram bot, dand flw la primi n urmaritori, am preluat un cont de pe curs pentru a da flw, si am creat un cont propiu de instagram pentru test." />
+    <MESSAGE value="Trimitere mail automat" />
+    <MESSAGE value="Bot,alerta subiect intersat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bot,alerta subiect intersat" />
   </component>
 </project>
