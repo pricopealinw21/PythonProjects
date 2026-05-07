@@ -1,6 +1,4 @@
-#Încearcă AI direct în aplicațiile preferate … Folosește Gemini pentru a genera schițe și a rafina conținut și beneficiază de Gemini Pro cu acces la AI de ultimă generație de la Google la 109,99 RON 0 RON pentru o lună (preț personalizat)
-import os
-import asyncio
+
 from openai import AsyncOpenAI
 from typing import Optional
 from agents import (
