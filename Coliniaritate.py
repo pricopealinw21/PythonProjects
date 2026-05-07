@@ -1,5 +1,4 @@
 from _future_ import annotations
-
 from dataclasses import dataclass
 from itertools import combinations
 
